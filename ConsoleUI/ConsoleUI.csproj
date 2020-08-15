@@ -7,4 +7,8 @@
     <RootNamespace>Nenov.LiskovSubstitutionPrincipleExample.ConsoleUI</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectLibrary\ProjectLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
