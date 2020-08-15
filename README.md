@@ -1,10 +1,4 @@
-# Delegates example
-[A practical demonstration, including Action and Func](https://www.youtube.com/watch?v=R8Blt5c-Vi4)
+# Liskov Substitution Principle Explained
+[Design Patterns: Liskov Substitution Principle Explained Practically in C# ](https://www.youtube.com/watch?v=-3UXq2krhyw)
 
-* Func Delegate: creating and explaining
-* Action Delegate: creating and explaining
-* Creating anonymous methods: anonymous Delegate
-* Creating anonymous methods: anonymous Func
-* Creating anonymous methods: anonymous Action
-* Using Delegates in other projects: WinForms
-* Using Anonymous Delegates in other projects: WinForms
+Think of them as guardrails that keep our code safe. In this video, we are going to look at the third entry in the famous SOLID principle. The L stands for the Liskov Substitution Principle. We are going to dive into what it means, how it should change our programming practices, and how far we should take it.
