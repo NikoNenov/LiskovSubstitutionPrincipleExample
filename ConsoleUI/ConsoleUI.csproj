@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Nenov.LiskovSubstitutionPrincipleExample.ConsoleUI</AssemblyName>
+    <RootNamespace>Nenov.LiskovSubstitutionPrincipleExample.ConsoleUI</RootNamespace>
+  </PropertyGroup>
+
+</Project>
